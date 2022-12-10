@@ -27,6 +27,10 @@
     {
       "version": "4.11.0-0.okd-2022-12-07-112102",
       "payload": "registry.ci.openshift.org/origin/release@sha256:17dd0a71259c93bb07ea333323746e3cf1231e3257d275ac23bd2006300b7ef9"
+    },
+    {
+      "version": "4.11.0-0.okd-2022-12-06-120143",
+      "payload": "registry.ci.openshift.org/origin/release@sha256:cfedd703d907a5b6d84843ef8438ebd492d5c5e8401ff10e24151ed0bfdc7141"
     },  
     {
       "version": "4.11.0-0.okd-2022-12-02-145640",
