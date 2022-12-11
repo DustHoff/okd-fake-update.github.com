@@ -60,5 +60,11 @@
       "version": "4.11.0-0.okd-2022-07-29-154152",
       "payload": "registry.ci.openshift.org/origin/release@sha256:a506d80873f7c51201c614be9c8defa6455f3b593faa54d11ded7b4d20c0fc4e"
     }
+  ],
+"edges": [
+  	{
+			"from": "4.11.0-0.okd-2022-12-10-085957",
+			"to": "4.11.0-0.okd-2022-12-06-120143"
+		}
   ]
 } 
